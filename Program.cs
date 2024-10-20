@@ -1,4 +1,6 @@
-﻿namespace Lab5NET24
+﻿//Alfred Ochieng Osewe Okoth
+//NET24
+namespace Lab5NET24
 {
     internal class Program
     {
